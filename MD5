@@ -1,4 +1,4 @@
-ac16e411f6f6331a6f659407ac6607f9 *DESCRIPTION
+8f34afdc0a8cd81561fe63e5b5b41d91 *DESCRIPTION
 9bb6a66e6bb9f775a52de0c6a17605bd *NAMESPACE
 37c5cfe682b8ea439e336b7a529ae9ac *R/NDarroch.R
 f583324d6ea0f1448e0f216b28d89c14 *R/ci.R
@@ -8,10 +8,10 @@ c657d3332e8677330d30ac49a664ded8 *R/n2.R
 bfa059a90907099a25a14adb4d98d48b *R/rdraws_rpvals.R
 f60076cc1d2eb3c3b9358a3e74430ce1 *R/stratified.R
 22202490c564298290edc4b0749a5559 *README.md
-d5a04bb84b887c9f95494fa12c64a7ab *build/vignette.rds
+a521c9a6180dc78ad1f85cc3891df2f9 *build/vignette.rds
 e6e561c34435e4157ebc08922cd0632d *inst/doc/recapr_vignette1.R
 8c3a5c9328517a8989ed3d1e29ca0b54 *inst/doc/recapr_vignette1.Rmd
-0b08629ed63d464a7585f9c861473cab *inst/doc/recapr_vignette1.html
+82d3bd702308368a53e9c3785ebdd270 *inst/doc/recapr_vignette1.html
 079c658e2a28508453e212c822187be9 *man/NBailey.Rd
 308aef0149701baa05cf5d5dd14db4fe *man/NChapman.Rd
 86d91570342a1defe4f487b9ae699da7 *man/NDarroch.Rd
@@ -41,7 +41,7 @@ e26c845e66cb8a3033829da24a2b3a3f *man/print.recapr_strattest.Rd
 34fc149e68d5f6124d48e2c51dac93c7 *man/rBailey.Rd
 f40a94ff6d5de0ae867f2880de903750 *man/rChapman.Rd
 0d3b52ce976c793f716f8b2b48445d22 *man/rPetersen.Rd
-eb22269812ee140c4ca6805b80889739 *man/recapr-package.Rd
+833a24afe63cce001685ec3b8e1a88f4 *man/recapr-package.Rd
 9ef99ca157122db61827cb7d75d389b0 *man/rstrat.Rd
 8d35bcf43efb42676c2cf66f3036cc07 *man/seBailey.Rd
 0322664c1ea5cacbbe9541c4df85f97f *man/seChapman.Rd
